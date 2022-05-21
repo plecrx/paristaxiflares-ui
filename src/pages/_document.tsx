@@ -29,6 +29,7 @@ class MyDocument extends Document<{stylesheets: Sheet[]}> {
 							key={i}
 						/>
 					))}
+					<title>Prescilla Lecurieux - Ubeetch</title>
 				</Head>
 				<body>
 					<Main />
